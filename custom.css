@@ -1,9 +1,9 @@
-.ksub{background:#fff; padding: 10px; overflow: hidden;border:1px solid #FF6347;border-style:dashed;border-top:0;box-shadow: 0 2px 5px rgba(0, 0, 0, 0.21);}
+.ksub{background:#fff; padding: 10px; overflow: hidden;border:1px solid #0F98D5;border-style:dashed;border-top:0;box-shadow: 0 2px 5px rgba(0, 0, 0, 0.21);margin-bottom:5px}
 .h6-subs {
   height: 50px;
   width: 100%;
   font-size: 18px;
-  background: #FF6347;
+  background: #0F98D5;
   color: white;
   border-radius: 3px 3px 0 0;
   box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
@@ -82,7 +82,7 @@ margin-left: auto;
     margin-right: auto;
 }
 button:hover {
-  background:#FF6347;
+  background:#0F98D5;
 color:#fff;
 }
 
